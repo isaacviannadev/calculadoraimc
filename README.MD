@@ -19,12 +19,21 @@
 
 
 #### Conceito:
-   App de calculo de IMC simples.
+   App de calculo de IMC simples.<br>
+   Baseado nesta tabela:
+<img src="/Tabela IMC.png" width=200px alt="Index">
+
 
 #### Alterações feitas por mim:
    Botão que limpa o painel de resultados.<br>
    Imagem de Fundo.<br>
    Tamanho de Input.
+
+#### Versão Original:
+
+<img src="/Mockup.png" width=200px alt="Index">
+
+
 
 
 
